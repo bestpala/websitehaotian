@@ -8,7 +8,7 @@ author: 'Sherlock'
 snapshot: 'https://ap3.qingstor.com/kubesphere-website/docs/KubeKey-lightweight-installer.png'
 ---
 
-As demonstrated in my [last article](https://kubesphere.io/blogs/scale-kubernetes-cluster-using-kubekey/), you can use KubeKey to easily scale in and out your cluster. As I only had one master node in the example, the cluster did not feature high availability. In this post, I will continue to demonstrate how to scale out your cluster while by adding master nodes this time to achieve high availability.
+As demonstrated in my [last article](https://kubesphere.io/blogs/     CXXXXscale-kubernetes-cluster-using-kubekey/), you can use KubeKey to easily scale in and out your cluster. As I only had one master node in the example, the cluster did not feature high availability. In this post, I will continue to demonstrate how to scale out your cluster while by adding master nodes this time to achieve high availability.
 
 The steps are listed as follows: aaa
 
